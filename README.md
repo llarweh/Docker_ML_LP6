@@ -7,7 +7,7 @@ I'm a Data Analyst and Python Programmer !
 </h2> 
 
 # Technical Skills 
-![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white%29)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -21,7 +21,7 @@ I'm a Data Analyst and Python Programmer !
 
 ## Setup
 
-For manual installation, you need to have [`Python3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's `root :: friendly_web_interface_for_ML_models> ...`  follow the steps below:
+For manual installation, you need to have [`Python3`](https://www.python.org/) on your system. Then you can clone this repo and follow the steps below:
 
 - Windows:
         
@@ -79,35 +79,28 @@ The project consists two application. The first one accepts inputs from the user
 
 <table>
     <tr>
-        <th>FastAPI</th>
-        <th>FastAPI</th>
+        <th>App</th>
+        <th>Result</th>
+        <th>App for file</th>
+        <th>Result for file</th>
     </tr>
     <tr>
-        <td><img src="./screenshots/.png"/></td>
-        <td><img src="./screenshots/.png"/></td>
+        <td><img src="./Image/Image_1.png"/></td>
+        <td><img src="./Image/Image_2.png"/></td>
+        <td><img src="./Image/Image_3.png"/></td>
+        <td><img src="./Image/Image_4.png"/></td>
     </tr>
 </table> -->
 
+### 🤝 Connect with me:
 
-## Resources
-Here are some resources you would read to have a good understanding of FastAPI :
-- [Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial/)
-- [Video - Building a Machine Learning API in 15 Minutes ](https://youtu.be/C82lT9cWQiA)
-- [FastAPI for Machine Learning: Live coding an ML web application](https://www.youtube.com/watch?v=_BZGtifh_gw)
-- [Video - Deploy ML models with FastAPI, Docker, and Heroku ](https://www.youtube.com/watch?v=h5wLuVDr0oc)
-- [FastAPI Tutorial Series](https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx)
-- [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
+<a href="https://www.linkedin.com/in/henok-solomon-a3b537206"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://medium.com/@heneyr24"><img align="left" 
+src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/>
+</a>
 
+##
 
 
-
-
-## Contributing
-
-Feel free to make a PR or report an issue 😃.
-
-Oh, one more thing, please do not forget to put a description when you make your PR 🙂.
-
-## Author
-
-
+# Further Link
+[MEDIUM](https://medium.com/@heneyr24/time-series-prediction-2c659b39356e?source=friends_link&sk=5c59b70a5e35ee9d5c59a382d9ab1919)
