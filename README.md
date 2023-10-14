@@ -18,6 +18,9 @@ I'm a Data Analyst and Python Programmer !
 
 ## Introduction
 
+This project uses Docker to create a containerized application that serves a Hugging Face model with FastAPI. Docker is a tool that allows you to package and run applications in isolated environments, making them portable, secure, and easy to deploy. the docker file is on Hugging Face.
+
+Hugging Face is a platform that provides state-of-the-art natural language processing models and datasets. FastAPI is a modern web framework that simplifies the development of RESTful APIs with Python. By combining these tools, you can build a scalable and robust machine learning app that can handle various natural language tasks.
 
 ## Setup
 
@@ -47,7 +50,7 @@ The both long command-lines have a same structure, they pipe multiple commands u
 
 The project consists two application. The first one accepts inputs from the user and return result with its confidentiality score. The second on accepts csv file which has input of various rows that going to be predicted. So the app read the file and retrieve records and predict for each rows and append the result with confidentiality score.
 
-## 1. App one
+## 1. App For Filling Form
 
 - To run the first app adjust
 
@@ -61,9 +64,9 @@ The project consists two application. The first one accepts inputs from the user
 
       http://127.0.0.1:8000
 
-## 2. App two
+## 1. App for Uploading file
 
-  - To run the second app adjust
+- To run the first app adjust
 
        cd Docker_ML\New folder\Docker_ML\app_for_file
   
@@ -74,7 +77,13 @@ The project consists two application. The first one accepts inputs from the user
 - Then browse to
 
       http://127.0.0.1:8000
-        
+
+## 3. Docker in Hugging Face
+
+- You can also run the app from hugging face docker image, browse to
+
+        https://henok21-sepsis-prediction-in-docker.hf.space/docs
+         
 ## Screenshots
 
 <table>
