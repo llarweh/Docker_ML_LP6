@@ -52,31 +52,31 @@ The project consists two application. The first one accepts inputs from the user
 
 ## 1. App For Filling Form
 
-- To run the first app adjust
+- Adjust the path 
 
        cd Docker_ML\New folder\Docker_ML\app
   
-- The run the  python file
+- Then run the python file
  
       py main.py
 
 - Then browse to
 
-      http://127.0.0.1:8000
+      http://127.0.0.1:8000/docs
 
-## 1. App for Uploading file
+## 2. App for Uploading file
 
-- To run the first app adjust
+- Adjust the path
 
        cd Docker_ML\New folder\Docker_ML\app_for_file
   
-- The run the  python file
+- Then run the python file
  
       py main.py
 
 - Then browse to
 
-      http://127.0.0.1:8000
+      http://127.0.0.1:8000/docs
 
 ## 3. Docker in Hugging Face
 
