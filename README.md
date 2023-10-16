@@ -106,4 +106,4 @@ The project consists two application. The first one accepts inputs from the user
 
 
 # Further Link
-(https://medium.com/@lawrencelarweh/machine-learning-api-using-fastapi-08bb730afc38)https://medium.com/@lawrencelarweh/machine-learning-api-using-fastapi-08bb730afc38
+https://medium.com/@lawrencelarweh/machine-learning-api-using-fastapi-08bb730afc38
