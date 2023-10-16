@@ -101,15 +101,9 @@ The project consists two application. The first one accepts inputs from the user
     </tr>
 </table> -->
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/henok-solomon-a3b537206"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@heneyr24"><img align="left" 
-src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/>
-</a>
 
 ##
 
 
 # Further Link
-[MEDIUM](https://medium.com/@heneyr24/time-series-prediction-2c659b39356e?source=friends_link&sk=5c59b70a5e35ee9d5c59a382d9ab1919)
+(https://medium.com/@lawrencelarweh/machine-learning-api-using-fastapi-08bb730afc38)https://medium.com/@lawrencelarweh/machine-learning-api-using-fastapi-08bb730afc38
