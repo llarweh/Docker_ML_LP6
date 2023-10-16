@@ -3,7 +3,7 @@ Hi there, I'm <b>Lawrence</b> 👋
 </h3>  
 
 <h2 align="center">
-I'm a Data Analyst and Python Programmer !
+My Team and I did this project!
 </h2> 
 
 # Technical Skills 
