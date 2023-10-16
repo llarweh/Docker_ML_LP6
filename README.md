@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <b>Henok</b> 👋 
+Hi there, I'm <b>Lawrence</b> 👋 
 </h3>  
 
 <h2 align="center">
